@@ -1,1 +1,1 @@
-Folder containing the weights of some model architectures and the architectures themselves.
+Containing the weights of the different neural network model and the architectures of those models.
