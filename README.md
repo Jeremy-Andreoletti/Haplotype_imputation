@@ -8,7 +8,7 @@ This repository contains the code for neural networks able to reconstruct haplot
 
 **A presentation of the problem and the principal architectures are presented in the main notebook "Haplotype_imputation_Artififial_NN.ipynb"**, which gives you the links to the other notebooks describing the different networks, when needed. For example, the successively tested CNN architectures are in "CNN_models.ipynb".
 
-![Neural Network Architecture](https://raw.githubusercontent.com/Jeremy-Andreoletti/Haplotype_imputation/tree/master/Images/Architecture_NN.png)
+![Neural Network Architecture](https://github.com/Jeremy-Andreoletti/Haplotype_imputation/blob/master/Images/Architecture_NN.png)
 
 All required data is provided :
 - "Initial_data" : Single Nucleotide Polymorphisms (SNPs) from the CeMEE dataset and the genetic map of *Caenorhabditis elegans*, note that one file has to be unzipped
@@ -17,7 +17,7 @@ All required data is provided :
 
 Finally, **we evaluated our best model accuracy for varying genotypes similarities between founders (both mean and variance) and we placed in this map classical datasets in population genetics**. You can find this in the notebook "Accuracy_similarity" into the "Similarity" folder.
 
-![Map of accuracies for varying similarities between founders](https://raw.githubusercontent.com/Jeremy-Andreoletti/Haplotype_imputation/tree/master/Images/Varying_similarities.png)
+![Map of accuracies for varying similarities between founders](https://github.com/Jeremy-Andreoletti/Haplotype_imputation/blob/master/Images/Varying_similarities.png)
 
 References :
 (1) Crow and Kimura. An Introduction to Population Genetics Theory, 1970 (Harper & Row)
