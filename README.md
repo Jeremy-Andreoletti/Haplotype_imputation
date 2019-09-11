@@ -8,8 +8,6 @@ This repository contains the code for neural networks able to reconstruct haplot
 
 **A presentation of the problem and the principal architectures are presented in the main notebook "Haplotype_imputation_Artififial_NN.ipynb"**, which gives you the links to the other notebooks describing the different networks, when needed. For example, the successively tested CNN architectures are in "CNN_models.ipynb".
 
-![Neural Network Architecture](https://github.com/Jeremy-Andreoletti/Haplotype_imputation/blob/master/Images/Architecture_NN.png)
-
 ![Neural Network Architecture](https://github.com/Jeremy-Andreoletti/Haplotype_imputation/blob/master/Images/Architecture_NN.svg)
 
 All required data is provided :
@@ -18,8 +16,6 @@ All required data is provided :
 - "Linkage_..." : Formatted genetic maps for the first chromosome of *C. elegans* and selected numbers of SNPs
 
 Finally, **we evaluated our best model accuracy for varying genotypes similarities between founders (both mean and variance) and we placed in this map classical datasets in population genetics**. You can find this in the notebook "Accuracy_similarity" into the "Similarity" folder.
-
-![Map of accuracies for varying similarities between founders](https://github.com/Jeremy-Andreoletti/Haplotype_imputation/blob/master/Images/Varying_similarities.png)
 
 ![Map of accuracies for varying similarities between founders](https://github.com/Jeremy-Andreoletti/Haplotype_imputation/blob/master/Images/Varying_similarities.svg)
 
