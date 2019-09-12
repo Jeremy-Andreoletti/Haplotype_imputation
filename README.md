@@ -6,7 +6,7 @@ As a L3 biology student at the Ecole Normale Supérieure of Paris (ENS), I worke
 
 This repository contains the code for neural networks able to reconstruct haplotypes from genotypes, implemented in Python 3.6.7 with keras 2.2.4 based on tensorflow 1.13.1.
 
-**A presentation of the problem and the principal architectures are presented in the main notebook "Haplotype_imputation_Artififial_NN.ipynb"**, which gives you the links to the other notebooks describing the different networks, when needed. For example, the successively tested CNN architectures are in "CNN_models.ipynb".
+**A presentation of the problem and the principal architectures are presented in the main notebook "Haplotype_imputation_Artififial_NN.ipynb"**, which gives you the links to the other notebooks describing the different networks, when needed. For example, the successively tested CNN architectures are in "CNN_models.ipynb". If the files are too big to be displayed on Github, you can have access via [nbviewer](https://nbviewer.jupyter.org/github/Jeremy-Andreoletti/Haplotype_imputation/tree/master/).
 
 ![Neural Network Architecture](https://github.com/Jeremy-Andreoletti/Haplotype_imputation/blob/master/Images/Architecture_NN.svg)
 
